@@ -1,7 +1,7 @@
 # Bunny website
 
 ### Deployment
-Link: 
+Link: https://thuduongnguyen.github.io/bunny-website/
 
 ### Technique
 - HTML
