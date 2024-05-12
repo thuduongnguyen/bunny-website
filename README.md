@@ -1,1 +1,8 @@
-# bunny-website
+# Bunny website
+
+### Deployment
+Link: 
+
+### Technique
+- HTML
+- CSS
